@@ -2,10 +2,6 @@
 
 Welcome to the Data Analysis in Marketing and Advertising repository! This repository contains a collection of data analysis projects focused on marketing and advertising domain topics. Each project provides insights and actionable recommendations based on the analysis of relevant datasets.
 
-# Data Analysis - Marketing
-
-Welcome to the Data Analysis - Marketing repository! This repository contains a collection of data analysis projects focused on marketing-related topics. Each project is organized into separate folders containing Jupyter Notebook code, dataset CSV files, images of output graphs, and code in PDF format.
-
 ## Projects
 
 1. **Cohort Analysis**
@@ -32,9 +28,6 @@ Welcome to the Data Analysis - Marketing repository! This repository contains a 
 
 To explore a specific project, navigate to the corresponding folder above. Each project folder contains Jupyter Notebook code, dataset CSV files, images of output graphs, and code in PDF format.
 
-## License
-
-This project is licensed under the [MIT License].
 
 ## Acknowledgments
 
