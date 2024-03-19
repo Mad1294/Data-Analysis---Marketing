@@ -9,7 +9,7 @@ Welcome to the Data Analysis in Marketing and Advertising repository! This repos
    - Description: Analyzes customer cohorts to understand their behavior and retention patterns over time.
 
 2. **RFM Analysis**
-   - Folder: [RFM Analysis](RFM Analysis)
+   - Folder: [RFM Analysis]
    - Description: Segments customers based on their recency, frequency, and monetary value metrics to understand their value to the business.
 
 3. **A-B Testing Analysis**
