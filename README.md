@@ -17,7 +17,7 @@ Welcome to the Data Analysis - Marketing repository! This repository contains a 
    - Description: Segments customers based on their recency, frequency, and monetary value metrics to understand their value to the business.
 
 3. **A-B Testing Analysis**
-   - Folder: [AB_Testing_Analysis]
+   - Folder: [A-B Hypothesis Testing]
    - Description: Evaluates the effectiveness of marketing strategies or website changes through A/B testing experiments.
 
 4. **User Engagement Analysis**
