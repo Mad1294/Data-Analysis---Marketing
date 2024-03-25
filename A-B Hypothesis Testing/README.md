@@ -5,7 +5,7 @@ In A/B testing, we analyze the results of two marketing strategies to choose the
 It involves comparing the performance of different approaches to achieve a common goal, such as boosting sales, increasing followers, or driving traffic. 
 By evaluating the outcomes of previous marketing campaigns, it determines which strategy is more effective and should be implemented in future initiatives.
 
-## Research Question
+## Goal
 The goal of this data analysis project is to visualize and interpret the results of A/B testing conducted on two different marketing strategies. 
 Specifically, aim to understand the impact of each strategy on sales, engagement, and other relevant metrics. 
 By visualizing the data, we seek to identify patterns, trends, and insights that can inform decision-making and optimize future marketing efforts.
